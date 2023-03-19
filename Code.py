@@ -5,7 +5,6 @@ from datetime import datetime
 
 import pickle
 
-from attendance import markAttendance
 print(cv2.__version__)
 
 Encodings=[]
